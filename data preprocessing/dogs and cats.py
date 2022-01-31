@@ -1,6 +1,6 @@
 dir=""
 categories=['dogs','cats']
-dat[]
+data=[]
 for category in categories : 
     folder=os.path.join(dir,category)
     label=categories.index(category)
